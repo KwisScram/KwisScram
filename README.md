@@ -1,8 +1,18 @@
+<!---
+This is my short introduction
+--->
+
+
 # Greetings from Kwissie (@KwisScram)
 *I am an NOOB!!! a BEGINNER...* *(Trying to find out)*
 
+<br>
+
 ## About
-I am from the Netherlands. So sorry for my bad English... :smile:
+I am from the Netherlands. <br>
+So sorry for my bad English... :smile:
+
+<br>
 
 ## My skills
 - Network Manager
@@ -11,12 +21,11 @@ I am from the Netherlands. So sorry for my bad English... :smile:
 - Visual Studio Code
 - C++
 - Fusion 360
+- Blender
 - Cura
+- AutoIt
+- Photoshop
+- OBS Studio
 
-<br><br><br>
 
 
-<!---
-KwisScram/KwisScram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
